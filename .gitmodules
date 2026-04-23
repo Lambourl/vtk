@@ -1,0 +1,3 @@
+[submodule "toolchains/environments"]
+	path = toolchains/environments
+	url = https://github.com/tipi-build/environments.git
